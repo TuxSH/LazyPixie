@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# 3ds files
+*.smdh
+*.3dsx
+*.lst
+
+.vscode
